@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-class HelperUtils {
+class Helper {
   static double getScreenHeight(context){
     return MediaQuery.of(context).size.height;
   }
